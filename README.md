@@ -336,7 +336,7 @@ It is a complete smart healthcare ecosystem that combines:
 ## Clone Repository
 
 ```bash id="jaj2hp"
-git clone https://github.com/your-username/murafik.git
+git clone https://github.com/m0ro23/Mobile-App.git
 ```
 
 ---

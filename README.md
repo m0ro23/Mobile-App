@@ -344,7 +344,7 @@ git clone https://github.com/m0ro23/Mobile-App.git
 ## Navigate to Project
 
 ```bash id="g3bwbk"
-cd murafik
+cd Mobile-App
 ```
 
 ---
